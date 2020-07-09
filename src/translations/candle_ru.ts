@@ -865,8 +865,8 @@
     </message>
     <message>
         <location filename="../frmmain.cpp" line="1615"/>
-        <source>G-Code files (*.nc *.ncc *.ngc *.tap *.txt);;All files (*.*)</source>
-        <translation>Файлы G-Code (*.nc *.ncc *.ngc *.tap *.txt);;Все файлы (*.*)</translation>
+        <source>G-Code files (*.nc *.ncc *.ngc *.tap *.txt *.gcode);;All files (*.*)</source>
+        <translation>Файлы G-Code (*.nc *.ncc *.ngc *.tap *.txt *.gcode);;Все файлы (*.*)</translation>
     </message>
     <message>
         <location filename="../frmmain.cpp" line="1704"/>
@@ -881,8 +881,8 @@
     <message>
         <location filename="../frmmain.cpp" line="2613"/>
         <location filename="../frmmain.cpp" line="2623"/>
-        <source>G-Code files (*.nc *.ncc *.ngc *.tap *.txt)</source>
-        <translation>Файлы G-Code (*.nc *.ncc *.ngc *.tap *.txt)</translation>
+        <source>G-Code files (*.nc *.ncc *.ngc *.tap *.txt *.gcode)</source>
+        <translation>Файлы G-Code (*.nc *.ncc *.ngc *.tap *.txt *.gcode)</translation>
     </message>
     <message>
         <source>File was changed. Save?</source>
